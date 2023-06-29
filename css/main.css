@@ -2,7 +2,7 @@
 @import url("./page-navigation.css");
 
 body {
-    background: url("./../../img/bg/bg-news.png") no-repeat;
+    background: url("./../img/bg/bg-news.png") no-repeat;
     background-position: bottom 100px center;
 }
 /* HEADER  */
@@ -157,7 +157,7 @@ body {
 
 .header-page {
     min-height: 415px;
-    background: url("./../../img/bg/bg-services.png")  center center/cover  no-repeat ;
+    background: url("./../img/bg/bg-services.png")  center center/cover  no-repeat ;
 }
 
 .--header-row--pos-bottom {
@@ -212,7 +212,7 @@ a[data-secondtRef] {
 
 .hero {
     min-height: 1200px;
-    background: url("./../../img/bg/bg-header.png") no-repeat;
+    background: url("./../img/bg/bg-header.png") no-repeat;
 
     background-position: center;
 }
@@ -468,16 +468,16 @@ a[data-secondtRef] {
 }
 
 .bg-f {
-    background: url('./../../img/social/css_sprites.png') -122px -10px;
+    background: url('./../img/social/css_sprites.png') -122px -10px;
 }
 .bg-in {
-    background: url('./../../img/social/css_sprites.png') -178px -10px;
+    background: url('./../img/social/css_sprites.png') -178px -10px;
 }
 .bg-telegram {
-    background: url('./../../img/social/css_sprites.png') -10px -10px;
+    background: url('./../img/social/css_sprites.png') -10px -10px;
 }
 .bg-vk {
-    background: url('./../../img/social/css_sprites.png')  -66px -10px;
+    background: url('./../img/social/css_sprites.png')  -66px -10px;
 }
 
 .footer-contact {
@@ -515,7 +515,7 @@ a[data-secondtRef] {
     bottom: 0;
     right: 0;
     z-index: 999;
-    background: url("./img/welcome/welcome.png") center bottom/cover no-repeat;
+    background: url("./../img/welcome/welcome.png") center bottom/cover no-repeat;
 }
 .modal__wrapper {
     position: relative;
@@ -702,7 +702,7 @@ a[data-secondtRef] {
     background-color: #2e77a4;
 }
 .reviews__title::after {
-    content: url("./../../img/section/reviews-vk.png");
+    content: url("./../img/section/reviews-vk.png");
     position: absolute;
     right: -37px;
     bottom: 0;
@@ -737,7 +737,7 @@ a[data-secondtRef] {
 .wish {
     padding: 117px 0;
     min-height: 363px;
-    background: url("./../../img/section/wish.png") center center/cover no-repeat;
+    background: url("./../img/section/wish.png") center center/cover no-repeat;
 }
 .wish p {
     font-size: 48px;
