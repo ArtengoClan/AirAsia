@@ -515,7 +515,7 @@ a[data-secondtRef] {
     bottom: 0;
     right: 0;
     z-index: 999;
-    background: url("./../../img/welcome/welcome.png") center bottom/cover no-repeat;
+    background: url("./img/welcome/welcome.png") center bottom/cover no-repeat;
 }
 .modal__wrapper {
     position: relative;
