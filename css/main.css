@@ -863,6 +863,10 @@ button:hover {
 }
 .form__check {
     padding: 10px 12px;
+    font-size: 13px;
+    color: #303030;
+    background-color: #E7E7E7;
+    border-radius: 35px;
 }
 input:checked ~.form__check {
     background-color: #b9eae4;
