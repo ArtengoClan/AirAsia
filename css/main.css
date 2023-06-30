@@ -765,6 +765,7 @@ a[data-secondtRef] {
 input, textarea {
     border: none;
     border-radius: 5px;
+    font-size: 18px;
 }
 textarea {
     resize: none;
@@ -774,7 +775,8 @@ input:focus,textarea:focus {
 }
 input {
     width: 557px;
-    height: 65px;
+    padding: 20px 0;
+    padding-left: 30px;
 
 }
 input::placeholder {
@@ -785,6 +787,8 @@ textarea {
     margin-bottom: 34px;
     width: 1142px;
     height: 235px;
+    padding-left: 30px;
+    padding-top: 29px;
 }
 textarea::placeholder {
     padding-left: 30px;
